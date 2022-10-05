@@ -1,0 +1,28 @@
+{
+	"info": {
+		"score6": {
+			"address": 2014,
+			"type": "|u1"
+		},
+		"score5": {
+			"address": 2015,
+			"type": "|u1"
+		},
+		"score4": {
+			"address": 2016,
+			"type": "|u1"
+		},
+		"score3": {
+			"address": 2017,
+			"type": "|u1"
+		},
+		"score2": {
+			"address": 2018,
+			"type": "|u1"
+		},
+		"lives": {
+			"address": 1882,
+			"type": "|i1"
+		}
+	}
+}

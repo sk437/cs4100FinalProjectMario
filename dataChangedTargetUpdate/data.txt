@@ -1,0 +1,99 @@
+
+AVERAGE SCORES PAST 10 EPISODES: 0.0 
+
+Finished Episode 0, distance = 1165.0
+Finished Episode 1, distance = 1923.0
+Finished Episode 2, distance = 1094.0
+Finished Episode 3, distance = 135.0
+Finished Episode 4, distance = 159.0
+Finished Episode 5, distance = 108.0
+Finished Episode 6, distance = 141.0
+Finished Episode 7, distance = 1549.0
+Finished Episode 8, distance = 140.0
+Finished Episode 9, distance = 131.0
+
+AVERAGE SCORES PAST 10 EPISODES: 654.5 
+
+Finished Episode 10, distance = 141.0
+Finished Episode 11, distance = 137.0
+Finished Episode 12, distance = 145.0
+Finished Episode 13, distance = 142.0
+Finished Episode 14, distance = 1581.0
+Finished Episode 15, distance = 1579.0
+Finished Episode 16, distance = 2229.0
+Finished Episode 17, distance = 1221.0
+Finished Episode 18, distance = 3589.0
+Finished Episode 19, distance = 2663.0
+
+AVERAGE SCORES PAST 10 EPISODES: 1342.7 
+
+Finished Episode 20, distance = 1207.0
+Finished Episode 21, distance = 1151.0
+Finished Episode 22, distance = 142.0
+Finished Episode 23, distance = 173.0
+Finished Episode 24, distance = 2158.0
+Finished Episode 25, distance = 1771.0
+Finished Episode 26, distance = 143.0
+Finished Episode 27, distance = 2056.0
+Finished Episode 28, distance = 156.0
+Finished Episode 29, distance = 1581.0
+
+AVERAGE SCORES PAST 10 EPISODES: 1053.8 
+
+Finished Episode 30, distance = 83.0
+Finished Episode 31, distance = 2044.0
+Finished Episode 32, distance = 1112.0
+Finished Episode 33, distance = 1767.0
+Finished Episode 34, distance = 191.0
+Finished Episode 35, distance = 191.0
+Finished Episode 36, distance = 156.0
+Finished Episode 37, distance = 166.0
+Finished Episode 38, distance = 116.0
+Finished Episode 39, distance = 93.0
+
+AVERAGE SCORES PAST 10 EPISODES: 591.9 
+
+Finished Episode 40, distance = 115.0
+Finished Episode 41, distance = 1093.0
+Finished Episode 42, distance = 157.0
+Finished Episode 43, distance = 1090.0
+Finished Episode 44, distance = 191.0
+Finished Episode 45, distance = 186.0
+Finished Episode 46, distance = 1775.0
+Finished Episode 47, distance = 176.0
+Finished Episode 48, distance = 1121.0
+Finished Episode 49, distance = 1108.0
+
+AVERAGE SCORES PAST 10 EPISODES: 701.2 
+
+Finished Episode 50, distance = 192.0
+Finished Episode 51, distance = 1221.0
+Finished Episode 52, distance = 183.0
+Finished Episode 53, distance = 1548.0
+Finished Episode 54, distance = 1055.0
+Finished Episode 55, distance = 163.0
+Finished Episode 56, distance = 200.0
+Finished Episode 57, distance = 186.0
+Finished Episode 58, distance = 199.0
+Finished Episode 59, distance = 1120.0
+
+AVERAGE SCORES PAST 10 EPISODES: 606.7 
+
+Finished Episode 60, distance = 197.0
+Finished Episode 61, distance = 1206.0
+Finished Episode 62, distance = 200.0
+Finished Episode 63, distance = 1093.0
+Finished Episode 64, distance = 144.0
+Finished Episode 65, distance = 162.0
+Finished Episode 66, distance = 2037.0
+Finished Episode 67, distance = 184.0
+Finished Episode 68, distance = 177.0
+Finished Episode 69, distance = 188.0
+
+AVERAGE SCORES PAST 10 EPISODES: 558.8 
+
+Finished Episode 70, distance = 185.0
+Finished Episode 71, distance = 186.0
+Finished Episode 72, distance = 1126.0
+Finished Episode 73, distance = 202.0
+Finished Episode 74, distance = 184.0

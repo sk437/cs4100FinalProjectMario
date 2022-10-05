@@ -1,0 +1,560 @@
+
+AVERAGE SCORES PAST 10 EPISODES: 0.0 
+AVERAGE DEATHS PAST 10 EPISODES: 0 
+
+Finished Episode 0, score = 0.0
+Finished Episode 1, score = 50.0
+Finished Episode 2, score = 0.0
+Finished Episode 3, score = 165.0
+Finished Episode 4, score = 150.0
+Finished Episode 5, score = 200.0
+Finished Episode 6, score = 0.0
+Finished Episode 7, score = 20.0
+Finished Episode 8, score = 0.0
+Finished Episode 9, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 58.5 
+AVERAGE DEATHS PAST 10 EPISODES: 5 
+
+Finished Episode 10, score = 155.0
+Finished Episode 11, score = 0.0
+Finished Episode 12, score = 60.0
+Finished Episode 13, score = 155.0
+Finished Episode 14, score = 0.0
+Finished Episode 15, score = 0.0
+Finished Episode 16, score = 140.0
+Finished Episode 17, score = 0.0
+Finished Episode 18, score = 185.0
+Finished Episode 19, score = 145.0
+
+AVERAGE SCORES PAST 10 EPISODES: 84.0 
+AVERAGE DEATHS PAST 10 EPISODES: 4 
+
+Finished Episode 20, score = 20.0
+Finished Episode 21, score = 40.0
+Finished Episode 22, score = 0.0
+Finished Episode 23, score = 0.0
+Finished Episode 24, score = 0.0
+Finished Episode 25, score = 70.0
+Finished Episode 26, score = 170.0
+Finished Episode 27, score = 165.0
+Finished Episode 28, score = 165.0
+Finished Episode 29, score = 180.0
+
+AVERAGE SCORES PAST 10 EPISODES: 81.0 
+AVERAGE DEATHS PAST 10 EPISODES: 3 
+
+Finished Episode 30, score = 60.0
+Finished Episode 31, score = 40.0
+Finished Episode 32, score = 10.0
+Finished Episode 33, score = 0.0
+Finished Episode 34, score = 10.0
+Finished Episode 35, score = 145.0
+Finished Episode 36, score = 20.0
+Finished Episode 37, score = 20.0
+Finished Episode 38, score = 170.0
+Finished Episode 39, score = 30.0
+
+AVERAGE SCORES PAST 10 EPISODES: 50.5 
+AVERAGE DEATHS PAST 10 EPISODES: 1 
+
+Finished Episode 40, score = 20.0
+Finished Episode 41, score = 0.0
+Finished Episode 42, score = 0.0
+Finished Episode 43, score = 50.0
+Finished Episode 44, score = 490.0
+Finished Episode 45, score = 170.0
+Finished Episode 46, score = 40.0
+Finished Episode 47, score = 70.0
+Finished Episode 48, score = 30.0
+Finished Episode 49, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 87.0 
+AVERAGE DEATHS PAST 10 EPISODES: 3 
+
+Finished Episode 50, score = 0.0
+Finished Episode 51, score = 40.0
+Finished Episode 52, score = 160.0
+Finished Episode 53, score = 20.0
+Finished Episode 54, score = 0.0
+Finished Episode 55, score = 130.0
+Finished Episode 56, score = 160.0
+Finished Episode 57, score = 50.0
+Finished Episode 58, score = 50.0
+Finished Episode 59, score = 40.0
+
+AVERAGE SCORES PAST 10 EPISODES: 65.0 
+AVERAGE DEATHS PAST 10 EPISODES: 2 
+
+Finished Episode 60, score = 60.0
+Finished Episode 61, score = 0.0
+Finished Episode 62, score = 0.0
+Finished Episode 63, score = 185.0
+Finished Episode 64, score = 60.0
+Finished Episode 65, score = 185.0
+Finished Episode 66, score = 30.0
+Finished Episode 67, score = 135.0
+Finished Episode 68, score = 150.0
+Finished Episode 69, score = 185.0
+
+AVERAGE SCORES PAST 10 EPISODES: 99.0 
+AVERAGE DEATHS PAST 10 EPISODES: 2 
+
+Finished Episode 70, score = 0.0
+Finished Episode 71, score = 0.0
+Finished Episode 72, score = 0.0
+Finished Episode 73, score = 165.0
+Finished Episode 74, score = 0.0
+Finished Episode 75, score = 40.0
+Finished Episode 76, score = 70.0
+Finished Episode 77, score = 0.0
+Finished Episode 78, score = 0.0
+Finished Episode 79, score = 50.0
+
+AVERAGE SCORES PAST 10 EPISODES: 32.5 
+AVERAGE DEATHS PAST 10 EPISODES: 6 
+
+Finished Episode 80, score = 50.0
+Finished Episode 81, score = 0.0
+Finished Episode 82, score = 160.0
+Finished Episode 83, score = 50.0
+Finished Episode 84, score = 0.0
+Finished Episode 85, score = 165.0
+Finished Episode 86, score = 40.0
+Finished Episode 87, score = 40.0
+Finished Episode 88, score = 60.0
+Finished Episode 89, score = 180.0
+
+AVERAGE SCORES PAST 10 EPISODES: 74.5 
+AVERAGE DEATHS PAST 10 EPISODES: 2 
+
+Finished Episode 90, score = 40.0
+Finished Episode 91, score = 165.0
+Finished Episode 92, score = 190.0
+Finished Episode 93, score = 150.0
+Finished Episode 94, score = 0.0
+Finished Episode 95, score = 60.0
+Finished Episode 96, score = 0.0
+Finished Episode 97, score = 40.0
+Finished Episode 98, score = 30.0
+Finished Episode 99, score = 150.0
+
+AVERAGE SCORES PAST 10 EPISODES: 82.5 
+AVERAGE DEATHS PAST 10 EPISODES: 2 
+
+Finished Episode 100, score = 20.0
+Finished Episode 101, score = 10.0
+Finished Episode 102, score = 20.0
+Finished Episode 103, score = 0.0
+Finished Episode 104, score = 0.0
+Finished Episode 105, score = 40.0
+Finished Episode 106, score = 10.0
+Finished Episode 107, score = 20.0
+Finished Episode 108, score = 30.0
+Finished Episode 109, score = 205.0
+
+AVERAGE SCORES PAST 10 EPISODES: 35.5 
+AVERAGE DEATHS PAST 10 EPISODES: 2 
+
+Finished Episode 110, score = 0.0
+Finished Episode 111, score = 0.0
+Finished Episode 112, score = 0.0
+Finished Episode 113, score = 0.0
+Finished Episode 114, score = 0.0
+Finished Episode 115, score = 0.0
+Finished Episode 116, score = 105.0
+Finished Episode 117, score = 0.0
+Finished Episode 118, score = 0.0
+Finished Episode 119, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 10.5 
+AVERAGE DEATHS PAST 10 EPISODES: 9 
+
+Finished Episode 120, score = 0.0
+Finished Episode 121, score = 20.0
+Finished Episode 122, score = 105.0
+Finished Episode 123, score = 0.0
+Finished Episode 124, score = 0.0
+Finished Episode 125, score = 20.0
+Finished Episode 126, score = 0.0
+Finished Episode 127, score = 0.0
+Finished Episode 128, score = 0.0
+Finished Episode 129, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 14.5 
+AVERAGE DEATHS PAST 10 EPISODES: 7 
+
+Finished Episode 130, score = 0.0
+Finished Episode 131, score = 10.0
+Finished Episode 132, score = 0.0
+Finished Episode 133, score = 0.0
+Finished Episode 134, score = 0.0
+Finished Episode 135, score = 0.0
+Finished Episode 136, score = 0.0
+Finished Episode 137, score = 0.0
+Finished Episode 138, score = 0.0
+Finished Episode 139, score = 40.0
+
+AVERAGE SCORES PAST 10 EPISODES: 5.0 
+AVERAGE DEATHS PAST 10 EPISODES: 8 
+
+Finished Episode 140, score = 30.0
+Finished Episode 141, score = 0.0
+Finished Episode 142, score = 0.0
+Finished Episode 143, score = 125.0
+Finished Episode 144, score = 0.0
+Finished Episode 145, score = 0.0
+Finished Episode 146, score = 40.0
+Finished Episode 147, score = 0.0
+Finished Episode 148, score = 0.0
+Finished Episode 149, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 19.5 
+AVERAGE DEATHS PAST 10 EPISODES: 7 
+
+Finished Episode 150, score = 0.0
+Finished Episode 151, score = 150.0
+Finished Episode 152, score = 0.0
+Finished Episode 153, score = 20.0
+Finished Episode 154, score = 0.0
+Finished Episode 155, score = 50.0
+Finished Episode 156, score = 10.0
+Finished Episode 157, score = 0.0
+Finished Episode 158, score = 0.0
+Finished Episode 159, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 23.0 
+AVERAGE DEATHS PAST 10 EPISODES: 6 
+
+Finished Episode 160, score = 0.0
+Finished Episode 161, score = 30.0
+Finished Episode 162, score = 0.0
+Finished Episode 163, score = 0.0
+Finished Episode 164, score = 0.0
+Finished Episode 165, score = 20.0
+Finished Episode 166, score = 0.0
+Finished Episode 167, score = 0.0
+Finished Episode 168, score = 10.0
+Finished Episode 169, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 6.0 
+AVERAGE DEATHS PAST 10 EPISODES: 7 
+
+Finished Episode 170, score = 0.0
+Finished Episode 171, score = 0.0
+Finished Episode 172, score = 0.0
+Finished Episode 173, score = 0.0
+Finished Episode 174, score = 20.0
+Finished Episode 175, score = 0.0
+Finished Episode 176, score = 0.0
+Finished Episode 177, score = 175.0
+Finished Episode 178, score = 30.0
+Finished Episode 179, score = 10.0
+
+AVERAGE SCORES PAST 10 EPISODES: 23.5 
+AVERAGE DEATHS PAST 10 EPISODES: 6 
+
+Finished Episode 180, score = 10.0
+Finished Episode 181, score = 0.0
+Finished Episode 182, score = 0.0
+Finished Episode 183, score = 0.0
+Finished Episode 184, score = 0.0
+Finished Episode 185, score = 0.0
+Finished Episode 186, score = 0.0
+Finished Episode 187, score = 40.0
+Finished Episode 188, score = 0.0
+Finished Episode 189, score = 10.0
+
+AVERAGE SCORES PAST 10 EPISODES: 6.0 
+AVERAGE DEATHS PAST 10 EPISODES: 7 
+
+Finished Episode 190, score = 20.0
+Finished Episode 191, score = 0.0
+Finished Episode 192, score = 0.0
+Finished Episode 193, score = 0.0
+Finished Episode 194, score = 0.0
+Finished Episode 195, score = 10.0
+Finished Episode 196, score = 20.0
+Finished Episode 197, score = 0.0
+Finished Episode 198, score = 0.0
+Finished Episode 199, score = 20.0
+
+AVERAGE SCORES PAST 10 EPISODES: 7.0 
+AVERAGE DEATHS PAST 10 EPISODES: 6 
+
+Finished Episode 200, score = 120.0
+Finished Episode 201, score = 30.0
+Finished Episode 202, score = 0.0
+Finished Episode 203, score = 0.0
+Finished Episode 204, score = 0.0
+Finished Episode 205, score = 0.0
+Finished Episode 206, score = 0.0
+Finished Episode 207, score = 10.0
+Finished Episode 208, score = 30.0
+Finished Episode 209, score = 20.0
+
+AVERAGE SCORES PAST 10 EPISODES: 21.0 
+AVERAGE DEATHS PAST 10 EPISODES: 5 
+
+Finished Episode 210, score = 0.0
+Finished Episode 211, score = 0.0
+Finished Episode 212, score = 40.0
+Finished Episode 213, score = 30.0
+Finished Episode 214, score = 30.0
+Finished Episode 215, score = 0.0
+Finished Episode 216, score = 100.0
+Finished Episode 217, score = 10.0
+Finished Episode 218, score = 0.0
+Finished Episode 219, score = 10.0
+
+AVERAGE SCORES PAST 10 EPISODES: 22.0 
+AVERAGE DEATHS PAST 10 EPISODES: 4 
+
+Finished Episode 220, score = 0.0
+Finished Episode 221, score = 0.0
+Finished Episode 222, score = 160.0
+Finished Episode 223, score = 10.0
+Finished Episode 224, score = 0.0
+Finished Episode 225, score = 20.0
+Finished Episode 226, score = 0.0
+Finished Episode 227, score = 0.0
+Finished Episode 228, score = 0.0
+Finished Episode 229, score = 10.0
+
+AVERAGE SCORES PAST 10 EPISODES: 20.0 
+AVERAGE DEATHS PAST 10 EPISODES: 6 
+
+Finished Episode 230, score = 0.0
+Finished Episode 231, score = 0.0
+Finished Episode 232, score = 20.0
+Finished Episode 233, score = 0.0
+Finished Episode 234, score = 0.0
+Finished Episode 235, score = 0.0
+Finished Episode 236, score = 60.0
+Finished Episode 237, score = 0.0
+Finished Episode 238, score = 0.0
+Finished Episode 239, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 8.0 
+AVERAGE DEATHS PAST 10 EPISODES: 8 
+
+Finished Episode 240, score = 0.0
+Finished Episode 241, score = 30.0
+Finished Episode 242, score = 10.0
+Finished Episode 243, score = 0.0
+Finished Episode 244, score = 0.0
+Finished Episode 245, score = 10.0
+Finished Episode 246, score = 30.0
+Finished Episode 247, score = 0.0
+Finished Episode 248, score = 0.0
+Finished Episode 249, score = 50.0
+
+AVERAGE SCORES PAST 10 EPISODES: 13.0 
+AVERAGE DEATHS PAST 10 EPISODES: 5 
+
+Finished Episode 250, score = 0.0
+Finished Episode 251, score = 0.0
+Finished Episode 252, score = 0.0
+Finished Episode 253, score = 0.0
+Finished Episode 254, score = 0.0
+Finished Episode 255, score = 0.0
+Finished Episode 256, score = 50.0
+Finished Episode 257, score = 0.0
+Finished Episode 258, score = 0.0
+Finished Episode 259, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 5.0 
+AVERAGE DEATHS PAST 10 EPISODES: 9 
+
+Finished Episode 260, score = 0.0
+Finished Episode 261, score = 0.0
+Finished Episode 262, score = 20.0
+Finished Episode 263, score = 20.0
+Finished Episode 264, score = 10.0
+Finished Episode 265, score = 0.0
+Finished Episode 266, score = 0.0
+Finished Episode 267, score = 135.0
+Finished Episode 268, score = 10.0
+Finished Episode 269, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 19.5 
+AVERAGE DEATHS PAST 10 EPISODES: 5 
+
+Finished Episode 270, score = 0.0
+Finished Episode 271, score = 0.0
+Finished Episode 272, score = 0.0
+Finished Episode 273, score = 40.0
+Finished Episode 274, score = 130.0
+Finished Episode 275, score = 0.0
+Finished Episode 276, score = 0.0
+Finished Episode 277, score = 0.0
+Finished Episode 278, score = 0.0
+Finished Episode 279, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 17.0 
+AVERAGE DEATHS PAST 10 EPISODES: 8 
+
+Finished Episode 280, score = 0.0
+Finished Episode 281, score = 115.0
+Finished Episode 282, score = 30.0
+Finished Episode 283, score = 20.0
+Finished Episode 284, score = 0.0
+Finished Episode 285, score = 30.0
+Finished Episode 286, score = 20.0
+Finished Episode 287, score = 160.0
+Finished Episode 288, score = 40.0
+Finished Episode 289, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 41.5 
+AVERAGE DEATHS PAST 10 EPISODES: 3 
+
+Finished Episode 290, score = 20.0
+Finished Episode 291, score = 0.0
+Finished Episode 292, score = 20.0
+Finished Episode 293, score = 0.0
+Finished Episode 294, score = 160.0
+Finished Episode 295, score = 180.0
+Finished Episode 296, score = 0.0
+Finished Episode 297, score = 0.0
+Finished Episode 298, score = 0.0
+Finished Episode 299, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 38.0 
+AVERAGE DEATHS PAST 10 EPISODES: 6 
+
+Finished Episode 300, score = 0.0
+Finished Episode 301, score = 20.0
+Finished Episode 302, score = 0.0
+Finished Episode 303, score = 140.0
+Finished Episode 304, score = 200.0
+Finished Episode 305, score = 0.0
+Finished Episode 306, score = 0.0
+Finished Episode 307, score = 0.0
+Finished Episode 308, score = 10.0
+Finished Episode 309, score = 20.0
+
+AVERAGE SCORES PAST 10 EPISODES: 39.0 
+AVERAGE DEATHS PAST 10 EPISODES: 5 
+
+Finished Episode 310, score = 0.0
+Finished Episode 311, score = 10.0
+Finished Episode 312, score = 0.0
+Finished Episode 313, score = 30.0
+Finished Episode 314, score = 0.0
+Finished Episode 315, score = 0.0
+Finished Episode 316, score = 20.0
+Finished Episode 317, score = 20.0
+Finished Episode 318, score = 20.0
+Finished Episode 319, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 10.0 
+AVERAGE DEATHS PAST 10 EPISODES: 5 
+
+Finished Episode 320, score = 0.0
+Finished Episode 321, score = 0.0
+Finished Episode 322, score = 10.0
+Finished Episode 323, score = 0.0
+Finished Episode 324, score = 0.0
+Finished Episode 325, score = 50.0
+Finished Episode 326, score = 20.0
+Finished Episode 327, score = 0.0
+Finished Episode 328, score = 0.0
+Finished Episode 329, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 8.0 
+AVERAGE DEATHS PAST 10 EPISODES: 7 
+
+Finished Episode 330, score = 0.0
+Finished Episode 331, score = 0.0
+Finished Episode 332, score = 0.0
+Finished Episode 333, score = 0.0
+Finished Episode 334, score = 0.0
+Finished Episode 335, score = 20.0
+Finished Episode 336, score = 0.0
+Finished Episode 337, score = 0.0
+Finished Episode 338, score = 10.0
+Finished Episode 339, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 3.0 
+AVERAGE DEATHS PAST 10 EPISODES: 8 
+
+Finished Episode 340, score = 0.0
+Finished Episode 341, score = 0.0
+Finished Episode 342, score = 0.0
+Finished Episode 343, score = 0.0
+Finished Episode 344, score = 0.0
+Finished Episode 345, score = 0.0
+Finished Episode 346, score = 0.0
+Finished Episode 347, score = 0.0
+Finished Episode 348, score = 40.0
+Finished Episode 349, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 4.0 
+AVERAGE DEATHS PAST 10 EPISODES: 9 
+
+Finished Episode 350, score = 0.0
+Finished Episode 351, score = 0.0
+Finished Episode 352, score = 0.0
+Finished Episode 353, score = 0.0
+Finished Episode 354, score = 20.0
+Finished Episode 355, score = 0.0
+Finished Episode 356, score = 0.0
+Finished Episode 357, score = 0.0
+Finished Episode 358, score = 0.0
+Finished Episode 359, score = 10.0
+
+AVERAGE SCORES PAST 10 EPISODES: 3.0 
+AVERAGE DEATHS PAST 10 EPISODES: 8 
+
+Finished Episode 360, score = 0.0
+Finished Episode 361, score = 0.0
+Finished Episode 362, score = 20.0
+Finished Episode 363, score = 40.0
+Finished Episode 364, score = 0.0
+Finished Episode 365, score = 20.0
+Finished Episode 366, score = 0.0
+Finished Episode 367, score = 0.0
+Finished Episode 368, score = 0.0
+Finished Episode 369, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 8.0 
+AVERAGE DEATHS PAST 10 EPISODES: 7 
+
+Finished Episode 370, score = 20.0
+Finished Episode 371, score = 0.0
+Finished Episode 372, score = 30.0
+Finished Episode 373, score = 30.0
+Finished Episode 374, score = 0.0
+Finished Episode 375, score = 0.0
+Finished Episode 376, score = 0.0
+Finished Episode 377, score = 0.0
+Finished Episode 378, score = 0.0
+Finished Episode 379, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 8.0 
+AVERAGE DEATHS PAST 10 EPISODES: 7 
+
+Finished Episode 380, score = 130.0
+Finished Episode 381, score = 0.0
+Finished Episode 382, score = 10.0
+Finished Episode 383, score = 10.0
+Finished Episode 384, score = 20.0
+Finished Episode 385, score = 0.0
+Finished Episode 386, score = 20.0
+Finished Episode 387, score = 20.0
+Finished Episode 388, score = 0.0
+Finished Episode 389, score = 0.0
+
+AVERAGE SCORES PAST 10 EPISODES: 21.0 
+AVERAGE DEATHS PAST 10 EPISODES: 4 
+
+Finished Episode 390, score = 10.0
+Finished Episode 391, score = 20.0
+Finished Episode 392, score = 0.0
+Finished Episode 393, score = 70.0
+Finished Episode 394, score = 30.0
+Finished Episode 395, score = 20.0
+Finished Episode 396, score = 0.0
+Finished Episode 397, score = 20.0
+Finished Episode 398, score = 0.0
+Finished Episode 399, score = 0.0
